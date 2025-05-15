@@ -1,5 +1,5 @@
 import React from 'react'
-import Content from './Content';
+import Content from './content';
 
 export default function MainSection() {
   return (
